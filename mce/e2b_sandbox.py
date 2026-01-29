@@ -1,4 +1,6 @@
 """
+Currently not used.
+
 E2B Sandbox integration for running agents in isolated environments.
 
 This module provides a sandbox wrapper that:
