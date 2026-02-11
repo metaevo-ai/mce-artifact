@@ -1,5 +1,8 @@
 # Meta Context Engineering (MCE)
 
+> **Note**: This repository contains the **artifacts and assets** from our Meta Context Engineering research. Please also visit the primary repository: [metaevo-ai/meta-context-engineering](https://github.com/metaevo-ai/meta-context-engineering)
+
+
 ## Overview
 
 We introduce **Meta Context Engineering (MCE)**, a bi-level framework that supersedes static CE heuristics by co-evolving *CE skills* and *context artifacts*.
@@ -228,4 +231,23 @@ bash scripts/eval_crime_prediction_mce.sh
 bash scripts/eval_uspto_mce.sh
 ```
 
+## Citation
 
+If you find this work useful, please kindly give it a star and cite:
+
+```bibtex
+@misc{ye2026mce,
+    title={Meta Context Engineering via Agentic Skill Evolution},
+    author={Haoran Ye and Xuning He and Vincent Arak and Haonan Dong and Guojie Song},
+    year={2026},
+    eprint={2601.21557},
+    archivePrefix={arXiv},
+    primaryClass={cs.AI},
+    url={https://arxiv.org/abs/2601.21557},
+    note={Code available at \url{https://github.com/metaevo-ai/meta-context-engineering}},
+}
+```
+
+## License
+
+MIT License
