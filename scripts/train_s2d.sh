@@ -11,5 +11,5 @@ uv run python -m mce.main \
     --train-limit 100 \
     --val-limit 100 \
     --log-dir "logs/symptom_diagnosis" \
-    --train-batch-size 50 \
-    --evolve-retrieval
+    --train-batch-size 50
+    # --evolve-retrieval # Can be optionally enabled
